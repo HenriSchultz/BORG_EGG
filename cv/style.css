@@ -13,12 +13,17 @@
     background-color: lightgray;
   float:right;
 }
+h3{ 
+  font-size:30px;
+}
+
+img{width:80%;
+}
+
 @media screen and (max-width: 600px) {
    .left, .right{ 
      width:100%;
      
 }
 }
-h3{ 
-  font-size:30px;
-}
+
